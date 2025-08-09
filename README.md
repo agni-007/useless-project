@@ -1,10 +1,12 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Headshot 🎯
 
 
 ## Basic Details
+just a fun game
+
 ### Team Name: [The boys]
 
 
@@ -25,18 +27,13 @@
 ### Technologies/Components Used
 For Software:
 - [html,css,js]
-- [Frameworks used]
-- [Libraries used]
+
 - [visual studio code]
 
 
 ### Implementation
 For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
+just save the files and the photos onto the same folder and run on live server
 
 ### Project Documentation
 For Software:
