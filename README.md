@@ -7,21 +7,21 @@
 ## Basic Details
 just a fun game
 
-### Team Name: [The boys]
+### Team Name: The boys
 
 
 ### Team Members
-- Team Lead: [S AGNIVESH] - [SOE,CUSAT]
+- Team Lead: S AGNIVESH- SOE,CUSAT
 
 
 ### Project Description
-[A  fun game where you  need to click the head floating around the screen]
+A  fun game where you try  to click the head floating around the screen but it moves away from the mouse pointer with 10 levels of difficulty 
 
 ### The Problem (that doesn't exist)
-[no problem just fun]
+Boredom 
 
 ### The Solution (that nobody asked for)
-[again just fun]
+[this game]
 
 ## Technical Details
 ### Technologies/Components Used
@@ -38,7 +38,7 @@ just save the files and the photos onto the same folder and run on live server
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots
 <img width="1325" height="778" alt="Screenshot 2025-08-08 114810" src="https://github.com/user-attachments/assets/d3e031ee-5880-4353-8b3b-117ba4ec9400" />
 THIS is the start window
 
@@ -49,17 +49,6 @@ this is what happens if we click a head
 <img width="1226" height="728" alt="Screenshot 2025-08-08 114829" src="https://github.com/user-attachments/assets/6f064c4d-d939-4bf2-8373-108ce657fb68" />
 this is the final window showing final scores
 
-
-
-
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [S AGNIVESH]: [Specific contributions]
